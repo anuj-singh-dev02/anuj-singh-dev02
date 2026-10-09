@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="linkedin.com/in/anujkumarsingh02">
+<a href="https://www.linkedin.com/in/anujkumarsingh02">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -221,7 +221,7 @@ I'm currently open to opportunities where I can contribute to real-world project
 
 <div align="center">
 
-<a href="linkedin.com/in/anujkumarsingh02">
+<a href="https://www.linkedin.com/in/anujkumarsingh02">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
