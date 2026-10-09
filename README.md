@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="singhanuj.in">
+<a href="https://anujsingh-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 &nbsp;
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1nQUw2OneW2EF3JWjeps9LvSLx4YvsubC/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1AsT7bqrFAYR6ZGVAQNAs1QB7KanflZBu/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 
@@ -32,15 +32,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Engineering graduate specializing in Artificial Intelligence & Machine Learning**, interested in **Data Analytics, Full-Stack Development, AI/ML and Data **.
+I'm a **Computer Science Engineering graduate specializing in Artificial Intelligence & Machine Learning**, interested in **Data Analytics, Full-Stack Development, AI/ML and Data Annotation**.
 
 I enjoy building practical applications by combining **data, software development, and intelligent systems** to solve real-world problems.
 
-- 🎓 B.Tech in Computer Science Engineering — AI & ML
-- 📊 Interested in Data Analytics & Data-Driven Solutions
-- 💻 Experienced with Full-Stack Web Development
-- 🤖 Exploring AI/ML and intelligent applications
-- 🚀 Open to Software Development, Data Analytics & AI/ML opportunities
+- 🎓 B.Tech Graduate in Computer Science Engineering — AI & ML
+- 📊 Interested in Data Analytics and Data-Driven Solutions
+- 💻 Building Full-Stack Web Applications using modern technologies
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and AI applications
+- 🚀 Open to entry-level opportunities in Software Development, Data Analytics, and AI/ML
 
 ---
 
@@ -49,7 +49,7 @@ I enjoy building practical applications by combining **data, software developmen
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,c,js,ts" />
 </p>
 
 ### 🎨 Frontend Development
@@ -64,13 +64,18 @@ I enjoy building practical applications by combining **data, software developmen
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 📊 Data & AI/ML
+### 📊 Data Analytics & AI/ML
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP" />
 </p>
-
-**Pandas · NumPy · Scikit-learn · OpenCV · NLP · Matplotlib · Seaborn · Power BI · SQL**
 
 ### 🗄️ Databases
 
@@ -104,7 +109,7 @@ A MERN-based platform designed to connect vendors and suppliers with real-time o
 
 **Tech:** React · Node.js · Express.js · MongoDB · Socket.IO · Tailwind CSS
 
-[🔗 View Repository](https://github.com/anuj-singh-dev02/TEAM-DRAGON-Freshly-Yours.git)
+🔗[View Repository](https://github.com/anuj-singh-dev02/TEAM-DRAGON-Freshly-Yours.git)
 
 ---
 
@@ -124,7 +129,7 @@ A full-stack collaboration platform focused on real-time communication and colla
 
 **Tech:** MERN · Socket.IO · React
 
-[🔗 View Repository](https://github.com/anuj-singh-dev02/CollabSync.git)
+🔗[View Repository](https://github.com/anuj-singh-dev02/CollabSync.git)
 
 ---
 
@@ -143,7 +148,7 @@ A Python-based computer vision project for detecting faces and estimating age an
 
 **Tech:** Python · OpenCV · Deep Learning
 
-[🔗 View Repository](https://github.com/anuj-singh-dev02/Gender-and-Age-Detection.git)
+🔗[View Repository](https://github.com/anuj-singh-dev02/Gender-and-Age-Detection.git)
 
 ---
 
@@ -164,7 +169,7 @@ An end-to-end e-commerce analytics project focused on understanding revenue, cus
 
 **Tech:** Python · Pandas · SQL · Power BI · DAX
 
-[🔗 View Repository](https://github.com/anuj-singh-dev02/D2C-Skincare-Ecommerce-Analysis.git)
+🔗[View Repository](https://github.com/anuj-singh-dev02/D2C-Skincare-Ecommerce-Analysis.git)
 
 ---
 
@@ -172,8 +177,7 @@ An end-to-end e-commerce analytics project focused on understanding revenue, cus
 
 - 🤖 **Generative AI Bootcamp — Google Cloud & Hack2Skill, 2025**
 - 🌐 **IBM Web Development Fundamentals, 2025**
-- ☁️ **Google Cloud Gen AI Exchange Program — Kolkata, 2025**
-- 💻 **Technical Projects & Hackathon Experience**
+- 💻 **Technical Projects & Hackathons**
 
 ---
 
